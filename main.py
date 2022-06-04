@@ -1,4 +1,5 @@
-import fantasynames as names
-import random
+from Person import Person
 
-print("Dwarf " + names.dwarf())
+for i in range(10):
+    person = Person()
+    person.show()
