@@ -1,0 +1,1 @@
+this is meant to be an app i can use while running D&D to grab random data I might want, Hopefully It can be ported to Android
